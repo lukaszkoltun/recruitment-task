@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+span>span{
+    color: #fcdf3c;
+}
+#third{
+    .pos{
+        font-size: 0.8em;
+        font-weight: 800;
+        color: green;
+    }
+    .neg{
+        font-size: 0.8em;
+        font-weight: 800;
+        color: red;
+    }
+    .neu{
+        font-size: 0.8em;
+        font-weight: 800;
+    }
+    i{
+        font-size: 1.5em;
+    }
+}
+
